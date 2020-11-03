@@ -1,0 +1,11 @@
+1. Openssh installation.
+2. File system short documentation.
+	a. File system structure
+	b. File\directory permission
+	c. File\directory Operation : read, write, execute
+	d. File\directory ownership operation
+	e. group creation and user creation.
+	f. basic commands like mkdir, rmdir, mv, cp, cat, rm, all file related commands.
+3. AWS server using VS code , putty, and from cmd as well.
+
+Note make complete doc based on this task. till by Tuesday if possible.
