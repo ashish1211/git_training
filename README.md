@@ -1,2 +1,2 @@
-# git_training
-# halloween
+# git_traing
+# Halloween
